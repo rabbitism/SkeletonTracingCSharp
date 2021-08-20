@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SkeletonTracing", "SkeletonTracing\SkeletonTracing.csproj", "{8908BFFE-DC8A-4932-8664-BF282324CE2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{BD15D84F-3078-4844-ABE5-B383DB3CC6D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8908BFFE-DC8A-4932-8664-BF282324CE2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8908BFFE-DC8A-4932-8664-BF282324CE2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8908BFFE-DC8A-4932-8664-BF282324CE2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8908BFFE-DC8A-4932-8664-BF282324CE2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD15D84F-3078-4844-ABE5-B383DB3CC6D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD15D84F-3078-4844-ABE5-B383DB3CC6D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD15D84F-3078-4844-ABE5-B383DB3CC6D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD15D84F-3078-4844-ABE5-B383DB3CC6D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E84EA6D3-E6A9-4F90-946C-D943B2889C63}
+	EndGlobalSection
+EndGlobal
